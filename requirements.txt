@@ -1,0 +1,7 @@
+pandas
+numpy
+matplotlib
+seaborn
+kafka-python
+boto3
+# Add airflow, jupyter, etc., as needed
